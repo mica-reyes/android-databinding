@@ -3,10 +3,6 @@ Android Data Binding Codelab
 
 [codelab](https://developer.android.com/codelabs/android-databinding?hl=es-419#0)
 ---------
-Follow the codelab in
-
-https://github.com/googlecodelabs/android-databinding
-
 
 License
 --------
